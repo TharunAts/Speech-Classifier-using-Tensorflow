@@ -1,7 +1,8 @@
 # Speech-Recognition-Using-Tensorflow
-In this project I have classified Audio signals using both Convolutional Neural Networks and Recurrent Neural Networks. 
+In this project I have classified Audio signals using both Convolutional Neural Networks and Recurrent Neural Networks.
+You can directly recreate the project by using jupyter notebooks.
 
-Please go through the Process document which explains detail steps about the project(Classifying Audio signals using Neural Networks) 
+For brief explanation please go through the Process document which explains detail steps about the project(Classifying Audio signals using Neural Networks) 
 and which Neural networks work better.
 
 The dataset can be collected from the link
